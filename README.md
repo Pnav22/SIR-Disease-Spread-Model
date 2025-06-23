@@ -94,4 +94,4 @@ Some images were generated using AI tools (Chatgpt), and portions of the code we
 ---
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License].
