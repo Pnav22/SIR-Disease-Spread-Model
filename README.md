@@ -1,6 +1,9 @@
 # SIR Epidemic Simulation
 
-![e510250d-4119-43ec-81e0-f58b8dfd13b2](https://github.com/user-attachments/assets/b7722649-56e4-4652-983f-fc58f64fc69d)
+![image](https://github.com/user-attachments/assets/6a2400d0-58a8-4d20-89f5-3de640919434)
+
+
+Try it out here! https://sir-disease-spread-model-m2wrbfx7a8n2bzwpqxquxb.streamlit.app/
 
 An interactive Python simulation of the classic **SIR (Susceptible–Infected–Recovered)** epidemiological model. Explore how diseases spread through populations with real-time parameter adjustment and live visualization.
 
