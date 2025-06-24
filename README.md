@@ -2,8 +2,13 @@
 
 ![e510250d-4119-43ec-81e0-f58b8dfd13b2](https://github.com/user-attachments/assets/4c2a6d66-c1f3-4199-955f-de8f102f972e)
 ---
-Try it out here! https://sir-disease-spread-model-m2wrbfx7a8n2bzwpqxquxb.streamlit.app/
+
+An interactive Python simulation of the classic **SIR (Susceptible–Infected–Recovered)** epidemiological model.  
+
+**Try it out here:** [SIR Disease Spread Simulation](https://sir-disease-spread-model-m2wrbfx7a8n2bzwpqxquxb.streamlit.app/)
+
 ---
+
 ## Example Results
 
 ![image](https://github.com/user-attachments/assets/46260c8c-baf2-4ffe-bac1-8f207d2d1f23)
@@ -15,8 +20,6 @@ Try it out here! https://sir-disease-spread-model-m2wrbfx7a8n2bzwpqxquxb.streaml
 
 
 ---
-An interactive Python simulation of the classic **SIR (Susceptible–Infected–Recovered)** epidemiological model. Explore how diseases spread through populations with real-time parameter adjustment and live visualization.
-
 ## Built With
 - **Python 3.7+**
 - **Matplotlib** - Interactive plotting and visualization
