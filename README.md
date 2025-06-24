@@ -1,10 +1,20 @@
 # SIR Epidemic Simulation
 
-![image](https://github.com/user-attachments/assets/6a2400d0-58a8-4d20-89f5-3de640919434)
-
-
+![e510250d-4119-43ec-81e0-f58b8dfd13b2](https://github.com/user-attachments/assets/4c2a6d66-c1f3-4199-955f-de8f102f972e)
+---
 Try it out here! https://sir-disease-spread-model-m2wrbfx7a8n2bzwpqxquxb.streamlit.app/
+---
+## Example Results
 
+![image](https://github.com/user-attachments/assets/46260c8c-baf2-4ffe-bac1-8f207d2d1f23)
+
+**Default simulation shows:**
+- **Blue curve (Susceptible)**: Starts at 999, decreases as people get infected
+- **Red curve (Infected)**: Peaks around day 38 with ~301 people infected
+- **Green curve (Recovered)**: Grows to ~950 people by the end
+
+
+---
 An interactive Python simulation of the classic **SIR (Susceptible–Infected–Recovered)** epidemiological model. Explore how diseases spread through populations with real-time parameter adjustment and live visualization.
 
 ## Built With
@@ -70,17 +80,7 @@ Susceptible → Infected → Recovered
 ---
 
 
-## Example Results
 
-![image](https://github.com/user-attachments/assets/46260c8c-baf2-4ffe-bac1-8f207d2d1f23)
-
-**Default simulation shows:**
-- **Blue curve (Susceptible)**: Starts at 999, decreases as people get infected
-- **Red curve (Infected)**: Peaks around day 38 with ~301 people infected
-- **Green curve (Recovered)**: Grows to ~950 people by the end
-
-
----
 
 
 
@@ -94,7 +94,3 @@ Susceptible → Infected → Recovered
 >  This project includes AI-assisted content.
 Some images were generated using AI tools (Chatgpt), and portions of the code were reviewed or optimized with the help of AI (ChatGPT). All outputs have been manually tested and validated.
 
----
-## License
-
-This project is open source and available under the [MIT License].
